@@ -12,5 +12,5 @@ It was built using the following techs:
 
 - [Node.js](https://nodejs.org)
 - [Express](https://expressjs.com/)
-- Socket.io
+- [Socket.io](https://socket.io/)
 - [Okta Platform](https://okta.com)
